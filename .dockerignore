@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.git/
+.github/
+notebooks/
+tests/
+mlflow.db
+mlruns/
+*.csv
+!data/best_model.joblib
+.venv/
+.env
+README.md
